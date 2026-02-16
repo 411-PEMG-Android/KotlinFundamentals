@@ -79,6 +79,6 @@ fun main() {
 
 //cambio 2 por tonto
 
-val variable
-val testing
-val nose
+val variable = ""
+val testing = 2
+val nose = 1.0
