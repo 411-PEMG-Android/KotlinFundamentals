@@ -74,3 +74,11 @@ fun main() {
 }
 //Ctrl k Ctrl c para comentar todo
 //Ctrl k Ctrl u para descomentar todo
+
+//cambio 1
+
+//cambio 2 por tonto
+
+val variable
+val testing
+val nose
