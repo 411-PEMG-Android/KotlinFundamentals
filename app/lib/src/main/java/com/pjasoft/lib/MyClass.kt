@@ -64,12 +64,7 @@ fun main() {
     //Determinar si un número ingresado por el usuario es un número primo
     println("Pon un numero")
     val numero = readlnOrNull()
-    val numero2 = numero?   .toIntOrNull()
 
-
-    do{
-        numero2 =
-    }
 
 }
 //Ctrl k Ctrl c para comentar todo
@@ -79,6 +74,3 @@ fun main() {
 
 //cambio 2 por tonto
 
-val variable = ""
-val testing = 2
-val nose = 1.0
